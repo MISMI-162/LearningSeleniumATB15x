@@ -44,6 +44,6 @@ public class Selenium006_FlipkartSVG {
                lowPrice=iprice;
            }
        }
-        System.out.println("Lowest price of mac mini is:"+lowPrice);
+        System.out.println("Lowest price of mac mini is: "+lowPrice);
     }
 }
