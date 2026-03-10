@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite4" verbose="1">
+    <test name="FlightBooking_Practice">
+        <classes>
+            <class name="com.thetestingacademy.Selenium007_TravelBooking"/>
+        </classes>
+    </test>
+</suite>
