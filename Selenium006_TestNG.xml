@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite3" verbose="2">
+    <test name="FlipkartMacMini_Practice">
+        <classes>
+            <class name="com.thetestingacademy.Selenium006_FlipkartSVG"/>
+        </classes>
+    </test>
+</suite>
