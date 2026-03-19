@@ -66,6 +66,5 @@ public class Selenium009_PhotoUpload {
         WebDriverWait wait11_1=new WebDriverWait(driver,Duration.ofSeconds(15));
         wait11_1.until(ExpectedConditions.elementToBeClickable(By.xpath("//button[contains(text(),'Upload')]"))).click();
         WebElement preview = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//img[@alt='Profile Picture Preview']")));
-
     }
 }
